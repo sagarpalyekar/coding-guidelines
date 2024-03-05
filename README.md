@@ -1,4 +1,4 @@
-# Leapfrog Technology Coding Guidelines
+# Copy of Leapfrog Technology Coding Guidelines
 
 https://coding-guidelines.lftechnology.com
 
